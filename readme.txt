@@ -60,7 +60,7 @@ In essence they are chunks of code that can be executed.
 
         var myName = "Amaan"
 
-        module.exports.<custom-name> = myFunction //note: do not put parameters when defining which function you want to use.
+        module.exports.<custom-name> = myFunction //note: do not put paranthesis when defining which function you want to use.
         module.exports.<custom-name2> = myName
 
 
